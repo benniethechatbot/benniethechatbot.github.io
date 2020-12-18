@@ -5269,8 +5269,9 @@ figcaption {
 }
 
 .results {
-  padding-top: 14px;
-  padding-bottom: 10px;
+  display: block;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #081158;
   color: #fff;
   text-align: center;
@@ -5281,6 +5282,11 @@ figcaption {
   margin-bottom: 0px;
   padding-bottom: 0px;
   text-align: center;
+}
+
+.heading-6.results {
+  position: static;
+  padding-top: 0px;
 }
 
 .container-5 {
