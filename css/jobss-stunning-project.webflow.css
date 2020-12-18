@@ -5045,6 +5045,7 @@ figcaption {
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
+  font-size: 16px;
 }
 
 .list-item {
@@ -5283,6 +5284,7 @@ figcaption {
 }
 
 .container-5 {
+  padding-top: 63px;
   text-align: center;
 }
 
@@ -5505,6 +5507,7 @@ figcaption {
 }
 
 .container-17 {
+  margin-top: 80px;
   text-align: center;
 }
 
@@ -5586,9 +5589,41 @@ figcaption {
 }
 
 .text-block-24 {
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   font-size: 18px;
   text-align: left;
+}
+
+.text-block-25 {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-size: 18px;
+}
+
+.image-29 {
+  margin-bottom: 40px;
+}
+
+.image-30 {
+  max-width: 100%;
+}
+
+.container-21 {
+  text-align: center;
+}
+
+.text-block-26 {
+  font-size: 18px;
+}
+
+.columns-2 {
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+
+.container-22 {
+  margin-top: 20px;
 }
 
 @media screen and (min-width: 1280px) {
