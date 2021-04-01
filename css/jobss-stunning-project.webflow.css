@@ -5640,8 +5640,8 @@ figcaption {
 
 @media screen and (min-width: 1280px) {
   .facts-row.social-proof {
-    padding-top: 20px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .column.flex-center {
@@ -7101,6 +7101,28 @@ figcaption {
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
   }
+}
+
+.basic-header {
+  font-size: 40px;
+  font-family: 'Sato';
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.pad-left {
+  padding-left:1em;
+}
+
+.pad-left-large {
+  padding-left:10em;
+}
+
+.user {
+  text-align: right !important;
+  width:100% !important;
+  padding-left:15em;
+  color: black;
 }
 
 @font-face {

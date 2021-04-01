@@ -1807,3 +1807,21 @@ textarea.w-select {
 .w-condition-invisible {
   display: none !important;
 }
+li {
+  display: inline !important;
+  float: right;
+  padding: 1%;
+}
+
+main-header {
+  display: block;
+  padding: 8px;
+  background-color: #dfe3ec;
+}
+ul {
+  background-color: #dfe3ec;
+}
+
+basic-header {
+  color: yellow;
+}
