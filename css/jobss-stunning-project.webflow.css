@@ -4963,8 +4963,7 @@ figcaption {
 }
 
 .bold-text-2 {
-  position: static;
-  display: inline-block;
+  padding-left: large;
   width: auto;
   color: #081158;
   font-size: 25px;
@@ -5027,6 +5026,13 @@ figcaption {
   width: 750px;
 }
 
+.navy {
+  background-color:#081158;
+}
+.white{
+  color: white;
+}
+
 .heading-5 {
   font-family: Sato, sans-serif;
   font-size: 14px;
@@ -5038,6 +5044,7 @@ figcaption {
   padding-bottom: 0px;
   font-style: normal;
   text-align: center;
+  padding-left: 42%;
 }
 
 .list {
